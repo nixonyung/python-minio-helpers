@@ -1,0 +1,5 @@
+[project]
+name = "python-minio-helpers"
+version = "0.0.1"
+requires-python = ">= 3.12"
+dependencies = ["minio >= 7.2.7", "orjson >= 3.10.6"]
